@@ -34,10 +34,10 @@ make
 ## Example
 * Philosophers not dying
 ``` bash
-./philo 4 800 200 200 (runs indefinitely)
-./philo 2 130 60 60 5 (simulation stops after each philosopher ate 5 times)
+./philo 4 800 200 200
+./philo 2 130 60 60 5
 ```
 * Philopher dying
 ``` bash
-./philo 6 100 50 50 (simulation stops after a philosopher died)
+./philo 6 100 50 50
 ```
