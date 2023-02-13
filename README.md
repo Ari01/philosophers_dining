@@ -1,9 +1,9 @@
-# philosophers_dining
+# Philosophers_dining
 
 A simulation program that showcases the philosophers' dining problem. It runs until a philosopher dies or every 
 single philosopher has eaten a certain amount of times.
 
-## Description of the problem
+## Problem description
 n philosophers are sitting around a dining table. Between each philosopher lies a fork. The philosophers
 must eat to avoid dying. To eat, they must pick up two forks, one in each hand. When a philosopher picks up a fork,
 it becomes unavailable to his neighboors. When he is done eating, he puts his forks down, making them available
